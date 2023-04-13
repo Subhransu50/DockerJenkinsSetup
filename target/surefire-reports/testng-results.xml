@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.practice.Test.LoginTest" duration-ms="43560" started-at="2023-04-13T10:27:13Z" finished-at="2023-04-13T10:27:56Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="43560" started-at="2023-04-13T10:27:13Z" finished-at="2023-04-13T10:27:56Z">
+      <class name="com.practice.Test.LoginTest">
+        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:com.practice.Test.LoginTest@337d0578]" name="LunchBrowser" is-config="true" duration-ms="31979" started-at="2023-04-13T10:27:13Z" finished-at="2023-04-13T10:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LunchBrowser -->
+        <test-method status="PASS" signature="OpenFacebookPageAndClickCreateAccount()[pri:0, instance:com.practice.Test.LoginTest@337d0578]" name="OpenFacebookPageAndClickCreateAccount" duration-ms="8116" started-at="2023-04-13T10:27:45Z" finished-at="2023-04-13T10:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFacebookPageAndClickCreateAccount -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.practice.Test.LoginTest@337d0578]" name="TearDown" is-config="true" duration-ms="3409" started-at="2023-04-13T10:27:53Z" finished-at="2023-04-13T10:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.practice.Test.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.practice.Test.LoginTest -->
+</testng-results>
